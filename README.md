@@ -3,7 +3,7 @@
 ### Team Members:
 
 SRICHARAN S<br>
-SRI SANJAY M<br>
+SRI SANJAY S<br>
 VIJAY P K<br>
 
 ### Abrstact:<br>
