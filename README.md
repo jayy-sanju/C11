@@ -26,7 +26,7 @@ RAM 			: 4 GB or more <br>
 
 ### System Architecture:<br>
 
-<img width="516" alt="" src="https://user-images.githubusercontent.com/113694055/230754961-2f402158-8ab3-45bc-ab9a-320cd7b5d899.png">
+<img width="516" alt="" src="https://user-images.githubusercontent.com/113694055/230755019-b3700e51-a975-44c4-a255-f98916afbcf2.png">
 
 
 ### Steps to run this project:
